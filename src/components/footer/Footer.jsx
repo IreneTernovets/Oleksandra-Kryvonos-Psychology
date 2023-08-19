@@ -23,7 +23,7 @@ const Footer = () => {
                 <div className="footer__social">
                     <a href="#" className="footer__social-link" target="_blank"><i class='bx bxl-instagram' ></i></a>
 
-                    <a href="#" className="hfooter__social-link" target="_blank"><i class='bx bxl-telegram' ></i></a>
+                    <a href="#" className="footer__social-link" target="_blank"><i class='bx bxl-telegram' ></i></a>
 
                     <a href="#" className="footer__social-link" target="_blank"><i class='bx bxl-tiktok' ></i></a>
                 </div>
